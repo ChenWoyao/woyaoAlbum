@@ -1,0 +1,12 @@
+
+可视化爬虫项目:
+利用WebSocket 模拟浏览器抓取页面解析数据, 利用 Node.js 的 Cheerio 解析页面, Sync-Request 获取页面
+将获取的数据，使用lodash结合echarts进行处理后，渲染到页面。
+
+
+音乐播放器:
+使用原生js es6语法实现，具备播放，暂停，循环播放，随机播放，音量控制，进度条，收藏，高亮。
+
+todo:
+express搭建web服务器， node.js实现后台数据处理
+然后前端用react框架写的TODO，实现了todo计数组件，TODO状态组件。
